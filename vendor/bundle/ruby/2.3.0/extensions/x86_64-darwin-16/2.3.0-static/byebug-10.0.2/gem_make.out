@@ -1,0 +1,19 @@
+current directory: /Users/saki/Ruby/cabinet/vendor/bundle/ruby/2.3.0/gems/byebug-10.0.2/ext/byebug
+/Users/saki/.rbenv/versions/2.3.1/bin/ruby -r ./siteconf20180419-98337-1oj3sis.rb extconf.rb
+creating Makefile
+
+current directory: /Users/saki/Ruby/cabinet/vendor/bundle/ruby/2.3.0/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/saki/Ruby/cabinet/vendor/bundle/ruby/2.3.0/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/saki/Ruby/cabinet/vendor/bundle/ruby/2.3.0/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20180419-98337-jd2vdc/byebug
